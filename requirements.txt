@@ -1,0 +1,14 @@
+numpy >= 1.13.0
+scipy
+sympy
+pandas
+matplotlib
+mpltools
+pytest
+pytest-timeout
+sphinx
+dask
+distributed
+googledrivedownloader
+folium
+

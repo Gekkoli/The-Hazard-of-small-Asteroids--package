@@ -1,0 +1,10 @@
+name: pallas
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+ - pip
+ - jupyter
+ - pip:
+   - -r requirements.txt
+   - -e .
