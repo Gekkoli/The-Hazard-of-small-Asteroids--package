@@ -1,7 +1,7 @@
 # ACS-1-armageddon
 
 <div align=center>
-![palles](https://github.com/Gekkoli/The-Hazard-of-small-Asteroids--package/blob/main/img-folder/astronomerss.jpg)
+<img src="https://github.com/Gekkoli/The-Hazard-of-small-Asteroids--package/blob/main/img-folder/astronomerss.jpg/">
 </div>
 
 ## Installation
