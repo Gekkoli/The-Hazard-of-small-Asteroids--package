@@ -45,3 +45,64 @@ python examples/example.py
 ## More information
 
 For more information on the developed tool, see `AirburstSolverUsage.ipynb` and `DamageMapperUsage.ipynb`.
+
+
+
+
+Not allowed:  
+
+  
+
+GeoPandas  
+
+GeoPy  
+
+scipy.integrate.solve_ivp  
+
+scipy.integrate.odeint  
+
+scipy.spatial.KDTree  
+
+  
+
+  
+
+  
+
+-----------------  
+
+  
+
+Allowed:   
+
+   
+
+numpy   
+
+scipy   
+
+note, scipy.optimize.fsolve is allowed  
+
+but odeint, solve_ivp, KDTree are not allowed  
+
+sympy   
+
+pandas   
+
+matplotlib   
+
+mpltools   
+
+pytest   
+
+pytest-timeout   
+
+sphinx   
+
+dask   
+
+distributed   
+
+googledrivedownloader   
+
+folium   
